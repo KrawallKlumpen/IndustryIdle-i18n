@@ -622,8 +622,8 @@ export const DE = {
         "<li>Colosseums are unlocked</li><li>Colosseums have 2x productivity</li><li>Start with level 5 policy center</li><li>Opera houses have 2x capacity</li><li>Recording studios also produce culture</li>",
     Detroit: "Detroit",
     DetroitBonus:
-        "<li>Engine factories are unlocked</li><li>Engine factories have 2x productivity</li><li>Car factories have 2x capacity</li><li>Car factories do not need batteries</li><li>Train factories have 2x capacity</li>",
+        "<li>Engine factories are unlocked</li><li>Engine factories have 2x productivity</li><li>Car factories have 2x capacity</li><li>Autofabriken benötigen keine Batterien</li><li>Zugfabriken haben 2x Kapazitäten</li>",
     Boston: "Boston",
     BostonBonus:
-        "<li>Start with level 5 research lab</li><li>Polytechnics are unlocked</li><li>Polytechnics have 2x capacity</li><li>Schools have 2x capacity</li><li>University have 2x productivity</li>",
+        "<li>Starte mit Forschungslabor auf Level 5</li><li>Fachhochschulen sind freigeschalten</li><li>Fachhochschulen haben 2x Kapazitäten</li><li>Schulen haben 2x Kapazitäten</li><li>Universitäten haben 2x Produktivität</li>",
 };
